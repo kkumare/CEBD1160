@@ -1,0 +1,3 @@
+This code shows the information of the file sizes. The first code gives us the file information, the second command sorts the file sizes in a numeric reverse order, while the third command shows the top 20 items. 
+
+
